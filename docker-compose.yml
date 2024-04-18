@@ -6,9 +6,9 @@ services:
     build: .
     command: bash bash.sh
     environment:
-      API_ID: 14426508
-      API_HASH: e44bc81e970faf1a15fea053d02c6cb7
+      API_ID: 12613527
+      API_HASH: b3d59e071c9c2358399638e650ae080c
       BOT_TOKEN: 6494673462:AAFLjjxGOYxDyuShBKVLP6ZQD_HyNyg533o
       SESSION: AQBQ8NMX7bfl93QDKncMzzJsKWHzDzcbAgToiv9MvNrbGhSOkjnjr06o9on3Qs3lKAzD4uReuAqE8ScxcQsmTC9vcUqms8mTNecMHtqzaLr6sONKrSDMmL4owNxnxeD0mddUpLoaXlFgW8EzUiaka78BAxEwzhxMx1csYHfCKgSnIJlyJO_d7LjCDfFdzwVzN8C8twDp7Up-ZutRsNHFqEUYMCHZ_hYRZ9A6T7Z0pF2LZHXmLKH2zV2SDwTfJAxzFvEqPnyq6H9kkaq8m-tG7edf90jfr48yzeA7Teyz3sfFTz9DQedKuxwwwEU46xV7aKz7O_SISjykOzsHLLG9y5PlUsh7CQA
       AUTH: 5102999288
-      FORCESUB: mantapvids
+      FORCESUB: theysaidp
